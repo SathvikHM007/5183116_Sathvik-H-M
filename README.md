@@ -2,7 +2,7 @@
 
 
 
-!\[Agile Image](Applied\_SDLCAgile/Agile\_GreatLearning.png)
+!\[Agile Image](./Applied\_SDLCAgile/Agile\_GreatLearning.png)
 
 
 
