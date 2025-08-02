@@ -1,7 +1,7 @@
-![Agile Image](Applied_SDLCAgile/Agile_GreatLearning.png)
+![Agile Image](Applied_SDLCAgile[1]/Agile_GreatLearning.png)
 
 
-![Git Certificate](Git/GitCertificate.png)
+![Git Certificate](Git[2]/GitCertificate.png)
 
 
 
